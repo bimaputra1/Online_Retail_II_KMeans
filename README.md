@@ -1,4 +1,4 @@
-# Online_Retail_II_KMeans
+# RFM Customer Segmentation using KMeans
 
 The aim of this project is to do customer segmentation analysis from online retail II dataset from UCI ML repository. This analysis will focus on getting RFM values and clustering it using K-Means algorithms.
 
